@@ -1,6 +1,6 @@
-# Quantitative Analysis Lab
+# Quantitative Analysis
 
-A curated collection of projects and exercises focused on quantitative analysis, statistics, and data-driven decision-making.  
+A collection of projects and exercises focused on quantitative analysis, statistics, and data-driven decision-making.  
 This repository demonstrates practical applications of probability, regression, and hypothesis testing using Python.
 
 ---
