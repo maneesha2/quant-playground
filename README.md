@@ -16,7 +16,7 @@ This repository demonstrates practical applications of probability, regression, 
 ## ⚙️ Setup
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/quantitative-analysis-lab.git
+git clone https://github.com/maneesha2/quantitative-analysis-lab.git
 cd quantitative-analysis-lab
 
 # Install dependencies
