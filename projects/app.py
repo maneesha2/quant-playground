@@ -260,5 +260,5 @@ st.markdown("""
 - **GDP per capita** shows a minor positive effect, possibly due to multicollinearity.  
 - Elasticity analysis highlights **life expectancy** and **urbanization** as the most influential predictors.  
 - **Policy implications:** Focus on female empowerment, urban planning, and healthcare improvements to sustain fertility decline.  
-- Prepare for potential challenges of slowing population growth: **labor shortages** and increasing **elderly dependency ratio**.
+- Future policies of Nepal should be prepare for potential challenges of slowing population growth: **labor shortages** and increasing **elderly dependency ratio**.
 """)
